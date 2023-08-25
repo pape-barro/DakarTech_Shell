@@ -10,4 +10,4 @@
  * Examen ;
 
  # ``` Contenu: ```
- 1. [`Support de cours`](https://github.com/pape-barro/DakarTech_Shell/blob/main/support-cours-shell-C5.pdf) ;
+ 1. [`Support de cours`](https://github.com/pape-barro/DakarTech_Shell/blob/main/support-cours-shell-C6.pdf) ;
